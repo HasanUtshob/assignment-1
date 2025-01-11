@@ -366,7 +366,7 @@ table thead{
 .news-1{
     display: flex;
     padding: 48px;
-   justify-content:space-around;
+ 
     
 }
 .news-img > img{
@@ -386,6 +386,7 @@ table thead{
 }
 .info{
     width: 744px;
+    margin: 0 32px;
     
 }
 article > button{
