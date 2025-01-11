@@ -1,8 +1,8 @@
 
-/* *{
+*{
     margin: 0;
     padding: 0;
-} */
+}
 .open-sans-normal {
   font-family: "Open Sans", serif;
   font-optical-sizing: auto;
@@ -12,6 +12,9 @@
     "wdth" 100;
 }
 .hr{
+    border: 1px solid rgba(14, 14, 14, 0.05);
+}
+hr{
     border: 1px solid rgba(14, 14, 14, 0.05);
 }
 body{
@@ -49,6 +52,10 @@ body{
 }
 
 /* hero section style */
+.hero-css{
+
+    gap: 64px;
+}
 .hero{
     display: flex;
     justify-content: space-around;
@@ -438,7 +445,7 @@ table thead{
     font-size: 40px;
     font-weight: bold;
     text-align: center;
-    padding: 30px 20px 10px 20px;
+    padding: 0px 20px 0px 20px;
 }
 .tk-form{
     display: flex;
