@@ -312,6 +312,7 @@ body{
 .Table-sheet{
     background-color:white;
     border-radius: 16px;
+    padding: 32px;
 
 }
 .Table-sheet table{
